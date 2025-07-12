@@ -32,9 +32,7 @@ Antes de comenzar, asegúrate de tener instaladas las siguientes dependencias:
 ### Instalación
 
 1. Clona el repositorio:
-   ```bash  
-   git clone https://github.com/tuusuario/tu-repo.git  
-   cd tu-repo 
+ 
 2. Crea un entorno virtual y activalo
     python -m venv venv
     # En Windows
